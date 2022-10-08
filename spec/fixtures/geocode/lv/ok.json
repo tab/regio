@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-09-15 15:28:24",
+    "query": "jeci 35",
+    "crs_out": 4326
+  },
+  "data": [
+    {
+      "id": 26000645,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela",
+      "postcode": null,
+      "type": "A5",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        }
+      ],
+      "geometry": [
+        21.2123598643017,
+        56.2826788317473
+      ]
+    },
+    {
+      "id": 28180447,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 1. Bērzu iela 35",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000451,
+          "type": "A5",
+          "name": "1. Bērzu iela"
+        },
+        {
+          "id": 28180447,
+          "type": "A7",
+          "name": "35"
+        }
+      ],
+      "geometry": [
+        21.2162553752985,
+        56.2934607828903
+      ]
+    },
+    {
+      "id": 28179178,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 1. Priežu iela 35",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000496,
+          "type": "A5",
+          "name": "1. Priežu iela"
+        },
+        {
+          "id": 28179178,
+          "type": "A7",
+          "name": "35"
+        }
+      ],
+      "geometry": [
+        21.2172886830127,
+        56.2934339652826
+      ]
+    },
+    {
+      "id": 28230061,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 1",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28230061,
+          "type": "A7",
+          "name": "1"
+        }
+      ],
+      "geometry": [
+        21.2109406708517,
+        56.2830150395177
+      ]
+    },
+    {
+      "id": 28229961,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 2",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229961,
+          "type": "A7",
+          "name": "2"
+        }
+      ],
+      "geometry": [
+        21.2099579364193,
+        56.2829075100759
+      ]
+    },
+    {
+      "id": 28229962,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 3",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229962,
+          "type": "A7",
+          "name": "3"
+        }
+      ],
+      "geometry": [
+        21.2112144120896,
+        56.2830198613766
+      ]
+    },
+    {
+      "id": 28229963,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 4",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229963,
+          "type": "A7",
+          "name": "4"
+        }
+      ],
+      "geometry": [
+        21.2103020650024,
+        56.2828789624423
+      ]
+    },
+    {
+      "id": 28229964,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 5",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229964,
+          "type": "A7",
+          "name": "5"
+        }
+      ],
+      "geometry": [
+        21.2115351956723,
+        56.2829715524384
+      ]
+    },
+    {
+      "id": 28229965,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 6",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229965,
+          "type": "A7",
+          "name": "6"
+        }
+      ],
+      "geometry": [
+        21.2108562565699,
+        56.2828056318512
+      ]
+    },
+    {
+      "id": 28229966,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 7",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229966,
+          "type": "A7",
+          "name": "7"
+        }
+      ],
+      "geometry": [
+        21.2119104227652,
+        56.282925817449
+      ]
+    },
+    {
+      "id": 28229967,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 8",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229967,
+          "type": "A7",
+          "name": "8"
+        }
+      ],
+      "geometry": [
+        21.2116180425305,
+        56.2826737999732
+      ]
+    },
+    {
+      "id": 28229968,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 10",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229968,
+          "type": "A7",
+          "name": "10"
+        }
+      ],
+      "geometry": [
+        21.2125388539132,
+        56.282546534545
+      ]
+    },
+    {
+      "id": 28229969,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 12",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229969,
+          "type": "A7",
+          "name": "12"
+        }
+      ],
+      "geometry": [
+        21.2130946120412,
+        56.2824625350534
+      ]
+    },
+    {
+      "id": 28229970,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 14",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28229970,
+          "type": "A7",
+          "name": "14"
+        }
+      ],
+      "geometry": [
+        21.2137660397044,
+        56.2823545368724
+      ]
+    },
+    {
+      "id": 28180261,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 17",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28180261,
+          "type": "A7",
+          "name": "17"
+        }
+      ],
+      "geometry": [
+        21.2136755279138,
+        56.2826717990184
+      ]
+    },
+    {
+      "id": 28180262,
+      "address": "Dienvidkurzemes novads, Dunikas pagasts, Ječi, 35. iela 19",
+      "postcode": "LV-3480",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 2001,
+          "type": "A0",
+          "name": "Latvijas Republika"
+        },
+        {
+          "id": 21121,
+          "type": "A1",
+          "name": "Dienvidkurzemes novads"
+        },
+        {
+          "id": 22431,
+          "type": "A2",
+          "name": "Dunikas pagasts"
+        },
+        {
+          "id": 2300309,
+          "type": "A3",
+          "name": "Ječi"
+        },
+        {
+          "id": 26000645,
+          "type": "A5",
+          "name": "35. iela"
+        },
+        {
+          "id": 28180262,
+          "type": "A7",
+          "name": "19"
+        }
+      ],
+      "geometry": [
+        21.2139507974325,
+        56.2826134722057
+      ]
+    }
+  ]
+}
