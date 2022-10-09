@@ -11,7 +11,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'regio'
+gem 'regio', '~> 0.1.1'
 ```
 
 And then execute:
