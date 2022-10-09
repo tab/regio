@@ -24,7 +24,33 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Get your own API key
+
+```shell
+REGIO_API_KEY=SECRET
+```
+
+Use geocode class in your code
+
+```ruby
+require 'regio'
+
+class Geocoding
+
+  private
+
+  def results
+    @results ||= Regio::Geocode.new(options).results
+  end
+
+  def options
+    {
+      address: 'Tartu maantee 83',
+      country: 'ee'
+    }
+  end
+end
+```
 
 ## Development
 
