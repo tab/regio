@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2021-05-16",
+    "query": "qqqqqq",
+    "crs_out": 4326
+  },
+  "data": []
+}

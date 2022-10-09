@@ -1,0 +1,1225 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-09-15 15:28:24",
+    "query": "tallinn parnu mnt 69",
+    "crs_out": 4326
+  },
+  "data": [
+    {
+      "id": 18167905,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69",
+      "postcode": "10134",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        }
+      ],
+      "geometry": [
+        24.7432624450759,
+        59.4241909034752
+      ]
+    },
+    {
+      "id": 18105493,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69a",
+      "postcode": "10134",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18105493,
+          "type": "A7",
+          "name": "69a"
+        }
+      ],
+      "geometry": [
+        24.7431306968125,
+        59.4234918918095
+      ]
+    },
+    {
+      "id": 190819038,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-1",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190819038,
+          "type": "A8",
+          "name": "1"
+        }
+      ],
+      "geometry": [
+        24.7432624450759,
+        59.4241909034752
+      ]
+    },
+    {
+      "id": 190819039,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-2",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190819039,
+          "type": "A8",
+          "name": "2"
+        }
+      ],
+      "geometry": [
+        24.7432624450759,
+        59.4241909034752
+      ]
+    },
+    {
+      "id": 190819040,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-3",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190819040,
+          "type": "A8",
+          "name": "3"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864418,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-4",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864418,
+          "type": "A8",
+          "name": "4"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864416,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-5",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864416,
+          "type": "A8",
+          "name": "5"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864415,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-6",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864415,
+          "type": "A8",
+          "name": "6"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864428,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-7",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864428,
+          "type": "A8",
+          "name": "7"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190689600,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-8",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190689600,
+          "type": "A8",
+          "name": "8"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190689601,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-9",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190689601,
+          "type": "A8",
+          "name": "9"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864559,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-10",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864559,
+          "type": "A8",
+          "name": "10"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864420,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-11",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864420,
+          "type": "A8",
+          "name": "11"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864423,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-12",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864423,
+          "type": "A8",
+          "name": "12"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864421,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-13",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864421,
+          "type": "A8",
+          "name": "13"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864419,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-14",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864419,
+          "type": "A8",
+          "name": "14"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864417,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-15",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864417,
+          "type": "A8",
+          "name": "15"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864471,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-16",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864471,
+          "type": "A8",
+          "name": "16"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864422,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-17",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864422,
+          "type": "A8",
+          "name": "17"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864424,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-18",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864424,
+          "type": "A8",
+          "name": "18"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864425,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-19",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864425,
+          "type": "A8",
+          "name": "19"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864426,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-20",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864426,
+          "type": "A8",
+          "name": "20"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864560,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-21",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864560,
+          "type": "A8",
+          "name": "21"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864472,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-22",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864472,
+          "type": "A8",
+          "name": "22"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    },
+    {
+      "id": 190864427,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Pärnu maantee 69-23",
+      "postcode": "10134",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16002744,
+          "type": "A5",
+          "name": "Pärnu maantee"
+        },
+        {
+          "id": 18167905,
+          "type": "A7",
+          "name": "69"
+        },
+        {
+          "id": 190864427,
+          "type": "A8",
+          "name": "23"
+        }
+      ],
+      "geometry": [
+        24.7431633581725,
+        59.4241929486406
+      ]
+    }
+  ]
+}

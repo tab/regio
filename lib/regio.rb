@@ -1,6 +1,10 @@
-require "regio/version"
+# frozen_string_literal: true
+
+require 'regio/configuration'
+require 'regio/geocode'
+require 'regio/version'
 
 module Regio
-  class Error < StandardError; end
-  # Your code goes here...
+  class Error < StandardError
+  end
 end

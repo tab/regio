@@ -1,0 +1,95 @@
+PATH
+  remote: .
+  specs:
+    regio (0.1.0)
+      httparty (~> 0.20.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
+    ast (2.4.2)
+    crack (0.4.5)
+      rexml
+    diff-lcs (1.5.0)
+    docile (1.4.0)
+    hashdiff (1.0.1)
+    httparty (0.20.0)
+      mime-types (~> 3.0)
+      multi_xml (>= 0.5.2)
+    json (2.6.2)
+    mime-types (3.4.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2022.0105)
+    multi_xml (0.6.0)
+    parallel (1.22.1)
+    parser (3.1.2.1)
+      ast (~> 2.4.1)
+    public_suffix (5.0.0)
+    rainbow (3.1.1)
+    rake (13.0.6)
+    regexp_parser (2.6.0)
+    rexml (3.2.5)
+    rspec (3.11.0)
+      rspec-core (~> 3.11.0)
+      rspec-expectations (~> 3.11.0)
+      rspec-mocks (~> 3.11.0)
+    rspec-core (3.11.0)
+      rspec-support (~> 3.11.0)
+    rspec-expectations (3.11.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.11.0)
+    rspec-mocks (3.11.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.11.0)
+    rspec-support (3.11.1)
+    rubocop (1.36.0)
+      json (~> 2.3)
+      parallel (~> 1.10)
+      parser (>= 3.1.2.1)
+      rainbow (>= 2.2.2, < 4.0)
+      regexp_parser (>= 1.8, < 3.0)
+      rexml (>= 3.2.5, < 4.0)
+      rubocop-ast (>= 1.20.1, < 2.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 3.0)
+    rubocop-ast (1.21.0)
+      parser (>= 3.1.1.0)
+    rubocop-performance (1.15.0)
+      rubocop (>= 1.7.0, < 2.0)
+      rubocop-ast (>= 0.4.0)
+    rubocop-rspec (2.13.2)
+      rubocop (~> 1.33)
+    ruby-progressbar (1.11.0)
+    simplecov (0.21.2)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+      simplecov_json_formatter (~> 0.1)
+    simplecov-html (0.12.3)
+    simplecov_json_formatter (0.1.4)
+    unicode-display_width (2.3.0)
+    webmock (3.18.1)
+      addressable (>= 2.8.0)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
+
+PLATFORMS
+  aarch64-linux-musl
+  arm64-darwin-21
+  x86_64-darwin-21
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (~> 2.3.0)
+  rake (~> 13.0.6)
+  regio!
+  rspec (~> 3.11.0)
+  rubocop (~> 1.36)
+  rubocop-performance (~> 1.15)
+  rubocop-rspec (~> 2.13.2)
+  simplecov (~> 0.21.2)
+  webmock (~> 3.18.1)
+
+BUNDLED WITH
+   2.3.7

@@ -1,0 +1,1105 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-09-15 15:28:24",
+    "query": "vivulskio gatve 35",
+    "crs_out": 4326
+  },
+  "data": [
+    {
+      "id": 38019024,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35",
+      "postcode": "LT-03114",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110897,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-1",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110897,
+          "type": "A8",
+          "name": "1"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110854,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-2",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110854,
+          "type": "A8",
+          "name": "2"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110919,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-3",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110919,
+          "type": "A8",
+          "name": "3"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110913,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-4",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110913,
+          "type": "A8",
+          "name": "4"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110874,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-5",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110874,
+          "type": "A8",
+          "name": "5"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110856,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-6",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110856,
+          "type": "A8",
+          "name": "6"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110871,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-7",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110871,
+          "type": "A8",
+          "name": "7"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110921,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-7A",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110921,
+          "type": "A8",
+          "name": "7A"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110869,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-8",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110869,
+          "type": "A8",
+          "name": "8"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110901,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-9",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110901,
+          "type": "A8",
+          "name": "9"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110904,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-10",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110904,
+          "type": "A8",
+          "name": "10"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110847,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-11",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110847,
+          "type": "A8",
+          "name": "11"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110853,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-12",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110853,
+          "type": "A8",
+          "name": "12"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110850,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-13",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110850,
+          "type": "A8",
+          "name": "13"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110865,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-14",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110865,
+          "type": "A8",
+          "name": "14"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110861,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-15",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110861,
+          "type": "A8",
+          "name": "15"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110898,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-16",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110898,
+          "type": "A8",
+          "name": "16"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110896,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-17",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110896,
+          "type": "A8",
+          "name": "17"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110867,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-18",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110867,
+          "type": "A8",
+          "name": "18"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110902,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-20",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110902,
+          "type": "A8",
+          "name": "20"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110905,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-22",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110905,
+          "type": "A8",
+          "name": "22"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 391109855,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-23",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 391109855,
+          "type": "A8",
+          "name": "23"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110910,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-24",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110910,
+          "type": "A8",
+          "name": "24"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    },
+    {
+      "id": 390110909,
+      "address": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-25",
+      "postcode": "LT-03114",
+      "type": "A8",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 3001,
+          "type": "A0",
+          "name": "Lietuvos Respublika"
+        },
+        {
+          "id": 31019,
+          "type": "A1",
+          "name": "Vilniaus miesto savivaldybė"
+        },
+        {
+          "id": 3311271,
+          "type": "A3",
+          "name": "Vilniaus miestas"
+        },
+        {
+          "id": 36000213,
+          "type": "A5",
+          "name": "A. Vivulskio gatvė"
+        },
+        {
+          "id": 38019024,
+          "type": "A7",
+          "name": "35"
+        },
+        {
+          "id": 390110909,
+          "type": "A8",
+          "name": "25"
+        }
+      ],
+      "geometry": [
+        25.259993001491,
+        54.6783071849089
+      ]
+    }
+  ]
+}
