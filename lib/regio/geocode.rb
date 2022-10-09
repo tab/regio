@@ -27,6 +27,8 @@ module Regio
     end
 
     def results
+      raise Unprocessable, response[:message] if response[:message]
+
       response.merge(
         collection: response[:data]&.map { |result| transform(result) } || []
       )

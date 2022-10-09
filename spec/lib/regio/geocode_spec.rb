@@ -10,15 +10,10 @@ RSpec.describe Regio::Geocode do
   describe '#results' do
     subject(:results) { described_class.new(options).results }
 
-    shared_examples 'respond with an error' do
-      let(:error) do
-        {
-          message: 'No API key found in request',
-          collection: []
-        }
+    shared_examples 'raise unprocessable error' do
+      it do
+        expect { results }.to raise_error(Regio::Unprocessable, 'No API key found in request')
       end
-
-      it { expect(results).to eq(error) }
     end
 
     shared_examples 'respond with an empty response' do
@@ -51,7 +46,7 @@ RSpec.describe Regio::Geocode do
         regio_stub_request(:get, '/geocode').to_return(regio_response('geocode/error.json'))
       end
 
-      include_examples 'respond with an error'
+      include_examples 'raise unprocessable error'
     end
 
     context 'when api key is not provided' do
@@ -65,7 +60,7 @@ RSpec.describe Regio::Geocode do
         regio_stub_request(:get, '/geocode').to_return(regio_response('geocode/error.json'))
       end
 
-      include_examples 'respond with an error'
+      include_examples 'raise unprocessable error'
     end
 
     context 'when address is invalid' do
