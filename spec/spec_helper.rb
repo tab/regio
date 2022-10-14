@@ -1,5 +1,17 @@
 # frozen_string_literal: true
 
+# NOTE: In order to track coverage simplecov needs to be the first one
+if ENV.fetch('COVERAGE', false)
+  require 'simplecov'
+
+  SimpleCov.start do
+    add_filter '/spec/'
+    add_filter 'lib/regio/version'
+
+    track_files 'lib/**/*.rb'
+  end
+end
+
 require 'bundler/setup'
 require 'regio'
 
