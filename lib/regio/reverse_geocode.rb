@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Regio
-  class Geocode < Core
+  class ReverseGeocode < Core
     def results
       raise Unprocessable, response[:message] if response[:message]
 
@@ -13,14 +13,13 @@ module Regio
     private
 
     def response
-      run('/geocode', options)
+      run('/revgeocode', options)
     end
 
     # NOTE: all options described in the documentation
-    # https://api.regio.ee/documentation/#docs/geocode
+    # https://api.regio.ee/documentation/#docs/reverse_geocode
     def default_options
       {
-        country: 'ee',
         apikey: Configuration.api_key,
         address_format: 'long_address',
         details: 'id,address,postcode,type,components,geometry,is_valid,is_complete',
