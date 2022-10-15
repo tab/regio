@@ -1,0 +1,1563 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-09-15 15:28:24",
+    "query": "24.7790924770962,59.4276340999273",
+    "crs_in": 4326,
+    "crs_out": 4326
+  },
+  "data": [
+    {
+      "id": 18192695,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 83",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18192695,
+          "type": "A7",
+          "name": "83"
+        }
+      ],
+      "geometry": [
+        24.7790924770962,
+        59.4276340999273
+      ]
+    },
+    {
+      "id": 18221871,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 3",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18221871,
+          "type": "A7",
+          "name": "3"
+        }
+      ],
+      "geometry": [
+        24.7786382321683,
+        59.4280468104035
+      ]
+    },
+    {
+      "id": 18267436,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7/1",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18267436,
+          "type": "A7",
+          "name": "7/1"
+        }
+      ],
+      "geometry": [
+        24.7790850359078,
+        59.4283324144817
+      ]
+    },
+    {
+      "id": 18273476,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 3/1",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18273476,
+          "type": "A7",
+          "name": "3/1"
+        }
+      ],
+      "geometry": [
+        24.778546963267,
+        59.4281394529521
+      ]
+    },
+    {
+      "id": 18330428,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 11/2",
+      "postcode": "10113",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16008539,
+          "type": "A5",
+          "name": "Masina tänav"
+        },
+        {
+          "id": 18330428,
+          "type": "A7",
+          "name": "11/2"
+        }
+      ],
+      "geometry": [
+        24.7786710711316,
+        59.4269279097878
+      ]
+    },
+    {
+      "id": 18042435,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 5",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18042435,
+          "type": "A7",
+          "name": "5"
+        }
+      ],
+      "geometry": [
+        24.7785649067365,
+        59.4282835045715
+      ]
+    },
+    {
+      "id": 18221666,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18221666,
+          "type": "A7",
+          "name": "7"
+        }
+      ],
+      "geometry": [
+        24.7788609919842,
+        59.4284823074846
+      ]
+    },
+    {
+      "id": 18191651,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7a",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18191651,
+          "type": "A7",
+          "name": "7a"
+        }
+      ],
+      "geometry": [
+        24.7792841978639,
+        59.4284976669854
+      ]
+    },
+    {
+      "id": 18162912,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 81",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18162912,
+          "type": "A7",
+          "name": "81"
+        }
+      ],
+      "geometry": [
+        24.7781845571311,
+        59.4278459871606
+      ]
+    },
+    {
+      "id": 18241332,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7b",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18241332,
+          "type": "A7",
+          "name": "7b"
+        }
+      ],
+      "geometry": [
+        24.7788409209741,
+        59.4286221064135
+      ]
+    },
+    {
+      "id": 18267434,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9/1",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18267434,
+          "type": "A7",
+          "name": "9/1"
+        }
+      ],
+      "geometry": [
+        24.7795083556108,
+        59.4286077429346
+      ]
+    },
+    {
+      "id": 18267437,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7/2",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18267437,
+          "type": "A7",
+          "name": "7/2"
+        }
+      ],
+      "geometry": [
+        24.7785416558592,
+        59.4285406609238
+      ]
+    },
+    {
+      "id": 18013446,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18013446,
+          "type": "A7",
+          "name": "79"
+        }
+      ],
+      "geometry": [
+        24.7781899168036,
+        59.4282069791846
+      ]
+    },
+    {
+      "id": 18012354,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18012354,
+          "type": "A7",
+          "name": "9"
+        }
+      ],
+      "geometry": [
+        24.7793234306712,
+        59.4286831292648
+      ]
+    },
+    {
+      "id": 18071755,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 22",
+      "postcode": "10113",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16008539,
+          "type": "A5",
+          "name": "Masina tänav"
+        },
+        {
+          "id": 18071755,
+          "type": "A7",
+          "name": "22"
+        }
+      ],
+      "geometry": [
+        24.7787859368658,
+        59.4265959012988
+      ]
+    },
+    {
+      "id": 18324734,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79c",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18324734,
+          "type": "A7",
+          "name": "79c"
+        }
+      ],
+      "geometry": [
+        24.7780278751685,
+        59.4280058805473
+      ]
+    },
+    {
+      "id": 18267435,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9/2",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18267435,
+          "type": "A7",
+          "name": "9/2"
+        }
+      ],
+      "geometry": [
+        24.7792347411341,
+        59.428754967694
+      ]
+    },
+    {
+      "id": 18222553,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79a",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18222553,
+          "type": "A7",
+          "name": "79a"
+        }
+      ],
+      "geometry": [
+        24.7779849014241,
+        59.4279140449548
+      ]
+    },
+    {
+      "id": 18330425,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 11/1",
+      "postcode": "10113",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16008539,
+          "type": "A5",
+          "name": "Masina tänav"
+        },
+        {
+          "id": 18330425,
+          "type": "A7",
+          "name": "11/1"
+        }
+      ],
+      "geometry": [
+        24.778343730584,
+        59.4267664175737
+      ]
+    },
+    {
+      "id": 18039453,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 4",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16001838,
+          "type": "A5",
+          "name": "Johannes Kappeli tänav"
+        },
+        {
+          "id": 18039453,
+          "type": "A7",
+          "name": "4"
+        }
+      ],
+      "geometry": [
+        24.7782210780197,
+        59.4284207401871
+      ]
+    },
+    {
+      "id": 18099047,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 8",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16001838,
+          "type": "A5",
+          "name": "Johannes Kappeli tänav"
+        },
+        {
+          "id": 18099047,
+          "type": "A7",
+          "name": "8"
+        }
+      ],
+      "geometry": [
+        24.7786242938897,
+        59.4287110021216
+      ]
+    },
+    {
+      "id": 18231776,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79e",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18231776,
+          "type": "A7",
+          "name": "79e"
+        }
+      ],
+      "geometry": [
+        24.7779487507975,
+        59.4279900234262
+      ]
+    },
+    {
+      "id": 18324919,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79b",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": true,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16004751,
+          "type": "A5",
+          "name": "Tartu maantee"
+        },
+        {
+          "id": 18324919,
+          "type": "A7",
+          "name": "79b"
+        }
+      ],
+      "geometry": [
+        24.7778807437037,
+        59.4279473216614
+      ]
+    },
+    {
+      "id": 18264442,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 6/2",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16001838,
+          "type": "A5",
+          "name": "Johannes Kappeli tänav"
+        },
+        {
+          "id": 18264442,
+          "type": "A7",
+          "name": "6/2"
+        }
+      ],
+      "geometry": [
+        24.7782729375612,
+        59.4286477280832
+      ]
+    },
+    {
+      "id": 18166449,
+      "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9a",
+      "postcode": "10115",
+      "type": "A7",
+      "is_valid": true,
+      "is_complete": false,
+      "components": [
+        {
+          "id": 1001,
+          "type": "A0",
+          "name": "Eesti Vabariik"
+        },
+        {
+          "id": 11002,
+          "type": "A1",
+          "name": "Harju maakond"
+        },
+        {
+          "id": 12008,
+          "type": "A2",
+          "name": "Tallinn"
+        },
+        {
+          "id": 1307208,
+          "type": "A3",
+          "name": "Kesklinna linnaosa"
+        },
+        {
+          "id": 16009575,
+          "type": "A5",
+          "name": "Lubja tänav"
+        },
+        {
+          "id": 18166449,
+          "type": "A7",
+          "name": "9a"
+        }
+      ],
+      "geometry": [
+        24.7794856525583,
+        59.4288916537955
+      ]
+    }
+  ],
+  "collection": [
+    {
+      "regio_id": 18192695,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 83",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4276340999273,
+      "lon": 24.7790924770962,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "83",
+      "apartment": null
+    },
+    {
+      "regio_id": 18221871,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 3",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4280468104035,
+      "lon": 24.7786382321683,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "3",
+      "apartment": null
+    },
+    {
+      "regio_id": 18267436,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7/1",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4283324144817,
+      "lon": 24.7790850359078,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "7/1",
+      "apartment": null
+    },
+    {
+      "regio_id": 18273476,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 3/1",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4281394529521,
+      "lon": 24.778546963267,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "3/1",
+      "apartment": null
+    },
+    {
+      "regio_id": 18330428,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 11/2",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10113",
+      "lat": 59.4269279097878,
+      "lon": 24.7786710711316,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Masina tänav",
+      "farmstead": null,
+      "house": "11/2",
+      "apartment": null
+    },
+    {
+      "regio_id": 18042435,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 5",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4282835045715,
+      "lon": 24.7785649067365,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "5",
+      "apartment": null
+    },
+    {
+      "regio_id": 18221666,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4284823074846,
+      "lon": 24.7788609919842,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "7",
+      "apartment": null
+    },
+    {
+      "regio_id": 18191651,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7a",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4284976669854,
+      "lon": 24.7792841978639,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "7a",
+      "apartment": null
+    },
+    {
+      "regio_id": 18162912,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 81",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4278459871606,
+      "lon": 24.7781845571311,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "81",
+      "apartment": null
+    },
+    {
+      "regio_id": 18241332,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7b",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4286221064135,
+      "lon": 24.7788409209741,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "7b",
+      "apartment": null
+    },
+    {
+      "regio_id": 18267434,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9/1",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4286077429346,
+      "lon": 24.7795083556108,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "9/1",
+      "apartment": null
+    },
+    {
+      "regio_id": 18267437,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 7/2",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4285406609238,
+      "lon": 24.7785416558592,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "7/2",
+      "apartment": null
+    },
+    {
+      "regio_id": 18013446,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4282069791846,
+      "lon": 24.7781899168036,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "79",
+      "apartment": null
+    },
+    {
+      "regio_id": 18012354,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4286831292648,
+      "lon": 24.7793234306712,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "9",
+      "apartment": null
+    },
+    {
+      "regio_id": 18071755,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 22",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10113",
+      "lat": 59.4265959012988,
+      "lon": 24.7787859368658,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Masina tänav",
+      "farmstead": null,
+      "house": "22",
+      "apartment": null
+    },
+    {
+      "regio_id": 18324734,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79c",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4280058805473,
+      "lon": 24.7780278751685,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "79c",
+      "apartment": null
+    },
+    {
+      "regio_id": 18267435,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9/2",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.428754967694,
+      "lon": 24.7792347411341,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "9/2",
+      "apartment": null
+    },
+    {
+      "regio_id": 18222553,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79a",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4279140449548,
+      "lon": 24.7779849014241,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "79a",
+      "apartment": null
+    },
+    {
+      "regio_id": 18330425,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Masina tänav 11/1",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10113",
+      "lat": 59.4267664175737,
+      "lon": 24.778343730584,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Masina tänav",
+      "farmstead": null,
+      "house": "11/1",
+      "apartment": null
+    },
+    {
+      "regio_id": 18039453,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 4",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4284207401871,
+      "lon": 24.7782210780197,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Johannes Kappeli tänav",
+      "farmstead": null,
+      "house": "4",
+      "apartment": null
+    },
+    {
+      "regio_id": 18099047,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 8",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4287110021216,
+      "lon": 24.7786242938897,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Johannes Kappeli tänav",
+      "farmstead": null,
+      "house": "8",
+      "apartment": null
+    },
+    {
+      "regio_id": 18231776,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79e",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4279900234262,
+      "lon": 24.7779487507975,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "79e",
+      "apartment": null
+    },
+    {
+      "regio_id": 18324919,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Tartu maantee 79b",
+      "valid": true,
+      "complete": true,
+      "zipcode": "10115",
+      "lat": 59.4279473216614,
+      "lon": 24.7778807437037,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Tartu maantee",
+      "farmstead": null,
+      "house": "79b",
+      "apartment": null
+    },
+    {
+      "regio_id": 18264442,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Johannes Kappeli tänav 6/2",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4286477280832,
+      "lon": 24.7782729375612,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Johannes Kappeli tänav",
+      "farmstead": null,
+      "house": "6/2",
+      "apartment": null
+    },
+    {
+      "regio_id": 18166449,
+      "title": "Harju maakond, Tallinn, Kesklinna linnaosa, Lubja tänav 9a",
+      "valid": true,
+      "complete": false,
+      "zipcode": "10115",
+      "lat": 59.4288916537955,
+      "lon": 24.7794856525583,
+      "country": "Eesti Vabariik",
+      "county": "Harju maakond",
+      "municipality": "Tallinn",
+      "settlement": "Kesklinna linnaosa",
+      "small_place": null,
+      "street": "Lubja tänav",
+      "farmstead": null,
+      "house": "9a",
+      "apartment": null
+    }
+  ]
+}

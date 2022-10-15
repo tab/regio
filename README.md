@@ -30,7 +30,9 @@ Get your own API key
 REGIO_API_KEY=SECRET
 ```
 
-Use geocode class in your code
+### Geocoding
+
+Use `Geocode` class in your code
 
 ```ruby
 require 'regio'
@@ -51,6 +53,35 @@ class Geocoding
   end
 end
 ```
+
+Check Regio [geocode](https://api.regio.ee/documentation/#docs/geocode) documentation
+
+
+### Reverse geocoding
+
+Use `ReverseGeocode` class in your code
+
+```ruby
+require 'regio'
+
+class Geocoding
+
+  private
+
+  def results
+    @results ||= Regio::ReverseGeocode.new(options).results
+  end
+
+  def options
+    {
+      lat: 59.4276340999273,
+      lng: 24.7790924770962
+    }
+  end
+end
+```
+
+Check Regio [reverse geocode](https://api.regio.ee/documentation/#docs/reverse_geocode) documentation
 
 ## Development
 

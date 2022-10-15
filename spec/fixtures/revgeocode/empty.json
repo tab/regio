@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-09-15 15:28:24",
+    "query": "not-a-lng,not-a-lat",
+    "crs_in": 4326,
+    "crs_out": 4326
+  },
+  "data": []
+}

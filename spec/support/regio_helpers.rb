@@ -2,7 +2,7 @@
 
 module RegioHelpers
   def regio_stub_request(method, path)
-    stub_request(method, /#{Regio::Geocode.base_uri}#{path}/)
+    stub_request(method, /#{Regio::Core.base_uri}#{path}/)
   end
 
   private
