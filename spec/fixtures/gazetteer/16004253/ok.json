@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "api_version": "v1",
+    "dataset_version": "2022-11-16",
+    "query": "address_details",
+    "id": 16004253,
+    "address_types": [
+      "A0",
+      "A1",
+      "A2",
+      "A3",
+      "A5"
+    ],
+    "address_count": 1
+  },
+  "data": [
+    {
+      "id": 16004253,
+      "parent_id": 1307402,
+      "name": "Riia tänav",
+      "address": "Tartu maakond, Tartu linn, Tartu linn, Riia tänav",
+      "postcode": null,
+      "country": "ee",
+      "type": "A5",
+      "type_id": 600,
+      "status": 1,
+      "status_text": null,
+      "au_code": "3038330",
+      "ads_adr_id": 3038330,
+      "address_code": "79793815100000SIB0000000000000000",
+      "is_valid": true,
+      "is_complete": false,
+      "is_cadastre_unit": false,
+      "is_building": false,
+      "has_children": true,
+      "child_count": 249,
+      "geometry": [
+        26.7070566361349,
+        58.3676687135688
+      ],
+      "created_at": 929318400,
+      "name_formats": [
+        {
+          "format": "long_name",
+          "name": "Riia tänav"
+        },
+        {
+          "format": "short_name",
+          "name": "Riia tn"
+        }
+      ],
+      "address_formats": [
+        {
+          "format": "long_address",
+          "address": "Tartu maakond, Tartu linn, Tartu linn, Riia tänav"
+        },
+        {
+          "format": "long_address_reverse",
+          "address": "Riia tänav, Tartu linn, Tartu linn, Tartu maakond"
+        },
+        {
+          "format": "short_address",
+          "address": "Tartumaa, Tartu linn, Tartu linn, Riia tn"
+        },
+        {
+          "format": "short_address_reverse",
+          "address": "Riia tn, Tartu linn, Tartu linn, Tartumaa"
+        }
+      ],
+      "components": [
+        {
+          "id": 1001,
+          "name": "Eesti Vabariik",
+          "type": "A0",
+          "type_id": 0,
+          "status": 110,
+          "au_code": null
+        },
+        {
+          "id": 11013,
+          "name": "Tartu maakond",
+          "type": "A1",
+          "type_id": 1,
+          "status": 110,
+          "au_code": "0079"
+        },
+        {
+          "id": 12010,
+          "name": "Tartu linn",
+          "type": "A2",
+          "type_id": 2,
+          "status": 110,
+          "au_code": "0793"
+        },
+        {
+          "id": 1307402,
+          "name": "Tartu linn",
+          "type": "A3",
+          "type_id": 3,
+          "status": 110,
+          "au_code": "8151"
+        },
+        {
+          "id": 16004253,
+          "name": "Riia tänav",
+          "type": "A5",
+          "type_id": 5,
+          "status": 110,
+          "au_code": null
+        }
+      ],
+      "ads_oid": [
+        {
+          "adob_id": 10569069,
+          "ads_oid": "LP00012164",
+          "ads_oid_type": "LP",
+          "orig_tunnus": "1674128",
+          "etak_id": null,
+          "created_at": 1667296357,
+          "valid_since": 1665497049
+        }
+      ],
+      "history": []
+    }
+  ]
+}

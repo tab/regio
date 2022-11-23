@@ -2,6 +2,7 @@
 
 require 'regio/configuration'
 require 'regio/core'
+require 'regio/gazetteer'
 require 'regio/geocode'
 require 'regio/reverse_geocode'
 require 'regio/errors/failed'

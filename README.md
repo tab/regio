@@ -83,6 +83,32 @@ end
 
 Check Regio [reverse geocode](https://api.regio.ee/documentation/#docs/reverse_geocode) documentation
 
+### Gazetteer
+
+Use `Gazetteer` class in your code
+
+```ruby
+require 'regio'
+
+class Geocoding
+
+  private
+
+  def results
+    @results ||= Regio::Gazetteer.new(options).results
+  end
+
+  def options
+    {
+      id: 16004253,
+      query: 'address_children'
+    }
+  end
+end
+```
+
+Check Regio [Gazetteer](https://api.regio.ee/documentation/#docs/gazetteer) documentation
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
