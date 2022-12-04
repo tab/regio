@@ -29,7 +29,7 @@ RSpec.describe Regio::Gazetteer do
             api_version: 'v1',
             dataset_version: '2022-11-16',
             query: 'address_children',
-            id: 123456789,
+            id: 123_456_789,
             address_types: [],
             address_count: 0
           },
