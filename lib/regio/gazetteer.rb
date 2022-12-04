@@ -22,7 +22,7 @@ module Regio
       {
         apikey: Configuration.api_key,
         address_format: 'long_address',
-        output_format: 'json',
+        output_format: 'json'
       }
     end
   end
