@@ -17,7 +17,7 @@ module Regio
     end
 
     # NOTE: all options described in the documentation
-    # https://api.regio.ee/documentation/#docs/reverse_geocode
+    # https://api.regio.ee/documentation/#docs/routing_and_directions
     def default_options
       {
         apikey: Configuration.api_key,
