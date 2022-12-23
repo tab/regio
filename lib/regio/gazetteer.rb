@@ -13,7 +13,7 @@ module Regio
     private
 
     def response
-      run('/gazetteer', options)
+      @response ||= run('/gazetteer', options)
     end
 
     # NOTE: all options described in the documentation

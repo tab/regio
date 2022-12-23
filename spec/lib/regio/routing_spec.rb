@@ -54,17 +54,15 @@ RSpec.describe Regio::Routing do
       end
 
       before do
-        regio_stub_request(:get, '/routing').to_return(regio_response('routing/error.json'))
+        regio_stub_request(:get, '/routing').to_return(regio_response('routing/invalid.json'))
       end
 
-      include_examples 'raise unprocessable error'
+      it do
+        expect { results }.to raise_error(Regio::Unprocessable, 'Invalid coordinate value')
+      end
     end
 
     context 'when query is valid' do
-      before do
-        regio_stub_request(:get, '/routing').to_return(regio_response('routing/ok.json'))
-      end
-
       let(:response) do
         JSON.parse(File.read('./spec/fixtures/routing/ok.json'), symbolize_names: true)
       end
@@ -73,6 +71,10 @@ RSpec.describe Regio::Routing do
         {
           coordinates: [[24.649138022268, 59.14048887149], [25.853136227622, 59.00678681919]]
         }
+      end
+
+      before do
+        regio_stub_request(:get, '/routing').to_return(regio_response('routing/ok.json'))
       end
 
       include_examples 'respond with ok response'

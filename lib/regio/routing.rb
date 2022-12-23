@@ -11,9 +11,9 @@ module Regio
     private
 
     def response
-      options[:coordinates] = options[:coordinates].map { |lnglat| lnglat.join(',') }.join(';') if options[:coordinates]
+      options[:coordinates]&.map { |lnglat| lnglat.join(',') }&.join(';')
 
-      run('/routing', options)
+      @response ||= run('/routing', options)
     end
 
     # NOTE: all options described in the documentation

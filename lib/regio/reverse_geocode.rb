@@ -13,7 +13,7 @@ module Regio
     private
 
     def response
-      run('/revgeocode', options)
+      @response ||= run('/revgeocode', options)
     end
 
     # NOTE: all options described in the documentation
