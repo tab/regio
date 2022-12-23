@@ -56,7 +56,6 @@ end
 
 Check Regio [geocode](https://api.regio.ee/documentation/#docs/geocode) documentation
 
-
 ### Reverse geocoding
 
 Use `ReverseGeocode` class in your code
@@ -108,6 +107,33 @@ end
 ```
 
 Check Regio [Gazetteer](https://api.regio.ee/documentation/#docs/gazetteer) documentation
+
+### Routing and directions
+
+Use `Routing` class in your code
+
+```ruby
+require 'regio'
+
+class Routing
+
+  private
+
+  def results
+    @results ||= Regio::Routing.new(options).results
+  end
+
+  def options
+    {
+      coordinates: [[24.649138022268, 59.14048887149], [25.853136227622, 59.00678681919]],
+      service: 'optimize',
+      overview: 'full'
+    }
+  end
+end
+```
+
+Check Regio [routing and directions](https://api.regio.ee/documentation/#docs/routing_and_directions) documentation
 
 ## Development
 
