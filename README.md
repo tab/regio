@@ -30,6 +30,15 @@ Get your own API key
 REGIO_API_KEY=SECRET
 ```
 
+```
+export REGIO_API_KEY=SECRET && irb -I lib
+
+irb(main):001:0> require 'regio'
+=> true
+
+...
+```
+
 ### Geocoding
 
 Use `Geocode` class in your code
