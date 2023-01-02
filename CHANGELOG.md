@@ -1,5 +1,12 @@
 # Change log
 
+## v0.3.0 (02.01.2023)
+
+* 2 major enhancements:
+  * Regio [routing](https://api.regio.ee/documentation/#docs/routing_and_directions)
+  * Regio [gazetteer](https://api.regio.ee/documentation/#docs/gazetteer)
+  * Minor refactoring
+
 ## v0.2.0 (15.10.2022)
 
 * 1 major enhancement:
