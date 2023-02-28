@@ -1,5 +1,10 @@
 # Change log
 
+## v0.3.1 (28.02.2023)
+
+* 1 minor enhancement:
+  * Update httparty dependency
+
 ## v0.3.0 (02.01.2023)
 
 * 2 major enhancements:
