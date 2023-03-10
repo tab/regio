@@ -39,5 +39,8 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'httparty', '>= 0.20', '< 0.22'
 
+  spec.add_development_dependency 'bundler', '~> 2.3.0'
+  spec.add_development_dependency 'rake', '~> 13.0.6'
+
   spec.metadata['rubygems_mfa_required'] = 'true'
 end

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    regio (0.3.1)
+    regio (0.3.2)
       httparty (>= 0.20, < 0.22)
 
 GEM
@@ -26,6 +26,7 @@ GEM
       ast (~> 2.4.1)
     public_suffix (5.0.1)
     rainbow (3.1.1)
+    rake (13.0.6)
     regexp_parser (2.7.0)
     rexml (3.2.5)
     rspec (3.12.0)
@@ -81,6 +82,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bundler (~> 2.3.0)
+  rake (~> 13.0.6)
   regio!
   rspec (~> 3.12.0)
   rubocop (~> 1.48.0)

@@ -1,5 +1,10 @@
 # Change log
 
+## v0.3.2 (10.03.2023)
+
+* 1 minor enhancement:
+  * Move gem's development and test dependencies into Gemfile
+
 ## v0.3.1 (28.02.2023)
 
 * 1 minor enhancement:
