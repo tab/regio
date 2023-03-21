@@ -1,0 +1,13 @@
+**/.git
+**/.idea
+/.github
+/docs
+/log
+/tmp
+/.dockerignore
+/.editorconfig
+/.gitattributes
+/.gitignore
+/docker-compose.yaml
+/Dockerfile
+/README.md
