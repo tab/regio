@@ -1,5 +1,10 @@
 # Change log
 
+## v0.3.3 (21.03.2023)
+
+* 1 minor enhancement:
+  * Development in docker
+
 ## v0.3.2 (10.03.2023)
 
 * 1 minor enhancement:
