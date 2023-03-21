@@ -1,6 +1,7 @@
 # Regio
 
 [![Gem Version](https://badge.fury.io/rb/regio.svg)](https://badge.fury.io/rb/regio)
+[![Release](https://github.com/tab/regio/actions/workflows/release.yaml/badge.svg?event=release)](https://github.com/tab/regio/actions/workflows/release.yaml)
 
 [Regio geocoding API](https://api.regio.ee/documentation/#docs/geocode) lets you search for addresses from complete Estonian address database.
 
