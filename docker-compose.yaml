@@ -1,0 +1,7 @@
+services:
+  regio:
+    build: .
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/package
