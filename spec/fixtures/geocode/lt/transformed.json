@@ -1,7 +1,7 @@
 {
   "meta": {
     "api_version": "v1",
-    "dataset_version": "2022-09-15 15:28:24",
+    "dataset_version": "2023-06-10 17:56:20",
     "query": "vivulskio gatve 35",
     "crs_out": 4326
   },
@@ -13,6 +13,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -41,8 +42,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -52,6 +53,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -85,8 +87,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -96,6 +98,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -129,8 +132,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -140,6 +143,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -173,8 +177,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -184,6 +188,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -217,8 +222,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -228,6 +233,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -261,8 +267,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -272,6 +278,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -305,8 +312,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -316,6 +323,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -349,8 +357,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -360,6 +368,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -393,8 +402,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -404,6 +413,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -437,8 +447,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -448,6 +458,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -481,8 +492,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -492,6 +503,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -525,8 +537,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -536,6 +548,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -569,8 +582,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -580,6 +593,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -613,8 +627,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -624,6 +638,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -657,8 +672,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -668,6 +683,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -701,8 +717,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -712,6 +728,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -745,8 +762,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -756,6 +773,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -789,8 +807,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -800,6 +818,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -833,8 +852,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -844,6 +863,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -877,8 +897,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -888,6 +908,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -921,8 +942,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -932,6 +953,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -965,8 +987,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -976,6 +998,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -1009,8 +1032,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -1020,6 +1043,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -1053,8 +1077,8 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     },
     {
@@ -1064,6 +1088,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": null,
       "components": [
         {
           "id": 3001,
@@ -1097,20 +1122,21 @@
         }
       ],
       "geometry": [
-        25.259993001491,
-        54.6783071849089
+        25.2599930014917,
+        54.6783071849292
       ]
     }
   ],
   "collection": [
     {
       "regio_id": 38019024,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35",
       "valid": true,
       "complete": false,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1123,12 +1149,13 @@
     },
     {
       "regio_id": 390110897,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-1",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1141,12 +1168,13 @@
     },
     {
       "regio_id": 390110854,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-2",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1159,12 +1187,13 @@
     },
     {
       "regio_id": 390110919,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-3",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1177,12 +1206,13 @@
     },
     {
       "regio_id": 390110913,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-4",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1195,12 +1225,13 @@
     },
     {
       "regio_id": 390110874,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-5",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1213,12 +1244,13 @@
     },
     {
       "regio_id": 390110856,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-6",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1231,12 +1263,13 @@
     },
     {
       "regio_id": 390110871,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-7",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1249,12 +1282,13 @@
     },
     {
       "regio_id": 390110921,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-7A",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1267,12 +1301,13 @@
     },
     {
       "regio_id": 390110869,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-8",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1285,12 +1320,13 @@
     },
     {
       "regio_id": 390110901,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-9",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1303,12 +1339,13 @@
     },
     {
       "regio_id": 390110904,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-10",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1321,12 +1358,13 @@
     },
     {
       "regio_id": 390110847,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-11",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1339,12 +1377,13 @@
     },
     {
       "regio_id": 390110853,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-12",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1357,12 +1396,13 @@
     },
     {
       "regio_id": 390110850,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-13",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1375,12 +1415,13 @@
     },
     {
       "regio_id": 390110865,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-14",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1393,12 +1434,13 @@
     },
     {
       "regio_id": 390110861,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-15",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1411,12 +1453,13 @@
     },
     {
       "regio_id": 390110898,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-16",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1429,12 +1472,13 @@
     },
     {
       "regio_id": 390110896,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-17",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1447,12 +1491,13 @@
     },
     {
       "regio_id": 390110867,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-18",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1465,12 +1510,13 @@
     },
     {
       "regio_id": 390110902,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-20",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1483,12 +1529,13 @@
     },
     {
       "regio_id": 390110905,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-22",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1501,12 +1548,13 @@
     },
     {
       "regio_id": 391109855,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-23",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1519,12 +1567,13 @@
     },
     {
       "regio_id": 390110910,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-24",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,
@@ -1537,12 +1586,13 @@
     },
     {
       "regio_id": 390110909,
+      "ads_adr_id": null,
       "title": "Vilniaus miesto savivaldybė, Vilniaus miestas, A. Vivulskio gatvė 35-25",
       "valid": true,
       "complete": true,
       "zipcode": "LT-03114",
-      "lat": 54.6783071849089,
-      "lon": 25.259993001491,
+      "lat": 54.6783071849292,
+      "lon": 25.2599930014917,
       "country": "Lietuvos Respublika",
       "county": "Vilniaus miesto savivaldybė",
       "municipality": null,

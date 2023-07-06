@@ -1,7 +1,7 @@
 {
   "meta": {
     "api_version": "v1",
-    "dataset_version": "2022-11-16",
+    "dataset_version": "2023-07-04",
     "query": "address_details",
     "id": 16004253,
     "address_types": [
@@ -33,10 +33,10 @@
       "is_cadastre_unit": false,
       "is_building": false,
       "has_children": true,
-      "child_count": 249,
+      "child_count": 246,
       "geometry": [
         26.7070566361349,
-        58.3676687135688
+        58.3676687135689
       ],
       "created_at": 929318400,
       "name_formats": [
@@ -111,16 +111,18 @@
       ],
       "ads_oid": [
         {
-          "adob_id": 10569069,
+          "adob_id": 10686426,
           "ads_oid": "LP00012164",
           "ads_oid_type": "LP",
           "orig_tunnus": "1674128",
           "etak_id": null,
-          "created_at": 1667296357,
-          "valid_since": 1665497049
+          "created_at": 1685614260,
+          "valid_since": 1684151038
         }
       ],
-      "history": []
+      "history": [
+
+      ]
     }
   ]
 }

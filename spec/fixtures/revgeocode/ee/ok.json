@@ -1,7 +1,7 @@
 {
   "meta": {
     "api_version": "v1",
-    "dataset_version": "2022-09-15 15:28:24",
+    "dataset_version": "2023-06-10 17:56:20",
     "query": "24.7790924770962,59.4276340999273",
     "crs_in": 4326,
     "crs_out": 4326
@@ -14,6 +14,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2107063",
       "components": [
         {
           "id": 1001,
@@ -58,6 +59,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2105229",
       "components": [
         {
           "id": 1001,
@@ -102,6 +104,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2321661",
       "components": [
         {
           "id": 1001,
@@ -136,7 +139,7 @@
       ],
       "geometry": [
         24.7790850359078,
-        59.4283324144817
+        59.4283324144818
       ]
     },
     {
@@ -146,6 +149,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2332320",
       "components": [
         {
           "id": 1001,
@@ -190,6 +194,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "3427254",
       "components": [
         {
           "id": 1001,
@@ -234,6 +239,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2109083",
       "components": [
         {
           "id": 1001,
@@ -268,7 +274,7 @@
       ],
       "geometry": [
         24.7785649067365,
-        59.4282835045715
+        59.4282835045716
       ]
     },
     {
@@ -278,6 +284,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2291450",
       "components": [
         {
           "id": 1001,
@@ -322,6 +329,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2105517",
       "components": [
         {
           "id": 1001,
@@ -366,6 +374,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2119937",
       "components": [
         {
           "id": 1001,
@@ -410,6 +419,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2291451",
       "components": [
         {
           "id": 1001,
@@ -454,6 +464,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2322664",
       "components": [
         {
           "id": 1001,
@@ -498,6 +509,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2321662",
       "components": [
         {
           "id": 1001,
@@ -542,6 +554,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2125590",
       "components": [
         {
           "id": 1001,
@@ -586,6 +599,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2117413",
       "components": [
         {
           "id": 1001,
@@ -620,7 +634,7 @@
       ],
       "geometry": [
         24.7793234306712,
-        59.4286831292648
+        59.4286831292649
       ]
     },
     {
@@ -630,6 +644,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2113005",
       "components": [
         {
           "id": 1001,
@@ -664,7 +679,7 @@
       ],
       "geometry": [
         24.7787859368658,
-        59.4265959012988
+        59.4265959012989
       ]
     },
     {
@@ -674,6 +689,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "3402885",
       "components": [
         {
           "id": 1001,
@@ -718,6 +734,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2322665",
       "components": [
         {
           "id": 1001,
@@ -762,6 +779,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2264129",
       "components": [
         {
           "id": 1001,
@@ -806,6 +824,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "3427251",
       "components": [
         {
           "id": 1001,
@@ -850,6 +869,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2120703",
       "components": [
         {
           "id": 1001,
@@ -884,7 +904,7 @@
       ],
       "geometry": [
         24.7782210780197,
-        59.4284207401871
+        59.4284207401872
       ]
     },
     {
@@ -894,6 +914,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2115649",
       "components": [
         {
           "id": 1001,
@@ -928,7 +949,7 @@
       ],
       "geometry": [
         24.7786242938897,
-        59.4287110021216
+        59.4287110021217
       ]
     },
     {
@@ -938,6 +959,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2123754",
       "components": [
         {
           "id": 1001,
@@ -982,6 +1004,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "3402883",
       "components": [
         {
           "id": 1001,
@@ -1016,7 +1039,7 @@
       ],
       "geometry": [
         24.7778807437037,
-        59.4279473216614
+        59.4279473216615
       ]
     },
     {
@@ -1026,6 +1049,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2232790",
       "components": [
         {
           "id": 1001,
@@ -1070,6 +1094,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2105746",
       "components": [
         {
           "id": 1001,

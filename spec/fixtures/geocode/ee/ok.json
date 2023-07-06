@@ -1,7 +1,7 @@
 {
   "meta": {
     "api_version": "v1",
-    "dataset_version": "2022-09-15 15:28:24",
+    "dataset_version": "2023-06-10 17:56:20",
     "query": "tallinn parnu mnt 69",
     "crs_out": 4326
   },
@@ -13,6 +13,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": false,
+      "ads_adr_id": "2107950",
       "components": [
         {
           "id": 1001,
@@ -57,6 +58,7 @@
       "type": "A7",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2119556",
       "components": [
         {
           "id": 1001,
@@ -91,7 +93,7 @@
       ],
       "geometry": [
         24.7431306968125,
-        59.4234918918095
+        59.4234918918096
       ]
     },
     {
@@ -101,6 +103,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2408841",
       "components": [
         {
           "id": 1001,
@@ -150,6 +153,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2408842",
       "components": [
         {
           "id": 1001,
@@ -199,6 +203,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2408843",
       "components": [
         {
           "id": 1001,
@@ -238,7 +243,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -248,6 +253,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513476",
       "components": [
         {
           "id": 1001,
@@ -287,7 +293,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -297,6 +303,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513474",
       "components": [
         {
           "id": 1001,
@@ -336,7 +343,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -346,6 +353,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513473",
       "components": [
         {
           "id": 1001,
@@ -385,7 +393,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -395,6 +403,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513486",
       "components": [
         {
           "id": 1001,
@@ -434,7 +443,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -444,6 +453,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2338054",
       "components": [
         {
           "id": 1001,
@@ -483,7 +493,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -493,6 +503,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2338055",
       "components": [
         {
           "id": 1001,
@@ -532,7 +543,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -542,6 +553,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513491",
       "components": [
         {
           "id": 1001,
@@ -581,7 +593,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -591,6 +603,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513478",
       "components": [
         {
           "id": 1001,
@@ -630,7 +643,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -640,6 +653,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513481",
       "components": [
         {
           "id": 1001,
@@ -679,7 +693,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -689,6 +703,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513479",
       "components": [
         {
           "id": 1001,
@@ -728,7 +743,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -738,6 +753,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513477",
       "components": [
         {
           "id": 1001,
@@ -777,7 +793,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -787,6 +803,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513475",
       "components": [
         {
           "id": 1001,
@@ -826,7 +843,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -836,6 +853,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513487",
       "components": [
         {
           "id": 1001,
@@ -875,7 +893,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -885,6 +903,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513480",
       "components": [
         {
           "id": 1001,
@@ -924,7 +943,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -934,6 +953,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513482",
       "components": [
         {
           "id": 1001,
@@ -973,7 +993,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -983,6 +1003,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513483",
       "components": [
         {
           "id": 1001,
@@ -1022,7 +1043,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -1032,6 +1053,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513484",
       "components": [
         {
           "id": 1001,
@@ -1071,7 +1093,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -1081,6 +1103,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513492",
       "components": [
         {
           "id": 1001,
@@ -1120,7 +1143,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -1130,6 +1153,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513488",
       "components": [
         {
           "id": 1001,
@@ -1169,7 +1193,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     },
     {
@@ -1179,6 +1203,7 @@
       "type": "A8",
       "is_valid": true,
       "is_complete": true,
+      "ads_adr_id": "2513485",
       "components": [
         {
           "id": 1001,
@@ -1218,7 +1243,7 @@
       ],
       "geometry": [
         24.7431633581725,
-        59.4241929486406
+        59.4241929486407
       ]
     }
   ]
