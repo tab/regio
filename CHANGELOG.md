@@ -1,5 +1,11 @@
 # Change log
 
+## v0.3.4 (06.07.2023)
+
+* 2 minor enhancements:
+  * Add `ads_adr_id` into default options
+  * Set ruby 2.4 as minimum ruby version
+
 ## v0.3.3 (21.03.2023)
 
 * 1 minor enhancement:

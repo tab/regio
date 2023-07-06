@@ -12,7 +12,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'regio', '~> 0.3.3'
+gem 'regio', '~> 0.3.4'
 ```
 
 And then execute:
