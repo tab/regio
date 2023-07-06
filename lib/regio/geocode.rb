@@ -23,7 +23,7 @@ module Regio
         country: 'ee',
         apikey: Configuration.api_key,
         address_format: 'long_address',
-        details: 'id,address,postcode,type,components,geometry,is_valid,is_complete',
+        details: 'id,address,ads_adr_id,postcode,type,components,geometry,is_valid,is_complete',
         output_format: 'json',
         limit: 25
       }

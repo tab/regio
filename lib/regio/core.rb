@@ -45,6 +45,7 @@ module Regio
 
     def default_hash_for(result)
       {
+        ads_adr_id: result[:ads_adr_id],
         regio_id: result[:id],
         title: result[:address],
         valid: result[:is_valid],
