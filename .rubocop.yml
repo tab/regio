@@ -5,7 +5,7 @@ require:
 AllCops:
   NewCops: enable
   SuggestExtensions: false
-  TargetRubyVersion: 2.6
+  TargetRubyVersion: 2.4
 
 RSpec/NestedGroups:
   Enabled: true
