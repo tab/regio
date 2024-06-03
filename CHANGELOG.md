@@ -1,5 +1,12 @@
 # Change log
 
+## v0.3.5 (03.06.2024)
+
+* 3 minor enhancements:
+  * Update end-of-life ruby versions
+  * Bump actions/checkout from 3 to 4
+  * Update gems
+
 ## v0.3.4 (06.07.2023)
 
 * 2 minor enhancements:

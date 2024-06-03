@@ -1,7 +1,7 @@
 PATH
   remote: ..
   specs:
-    regio (0.3.4)
+    regio (0.3.5)
       httparty (>= 0.20, < 0.22)
 
 GEM
